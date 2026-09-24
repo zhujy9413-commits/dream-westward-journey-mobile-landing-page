@@ -4,7 +4,7 @@
 
 ## 在线预览
 
-项目启用 GitHub Pages 后，可通过仓库首页的 Pages 地址访问。
+[打开 GitHub Pages 在线网站](https://zhujy9413-commits.github.io/dream-westward-journey-mobile-landing-page/)
 
 ## 功能
 
@@ -28,4 +28,3 @@
 页面代码以 [MIT License](LICENSE) 开源。
 
 《梦幻西游》名称、商标、角色、技能图标及相关美术素材归网易及其相关权利方所有，不属于本项目 MIT 许可范围。本项目仅用于产品设计演示与学习交流，不代表网易官方立场，也不用于商业用途。
-
